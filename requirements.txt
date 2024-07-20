@@ -1,0 +1,16 @@
+arabic_reshaper==3.0.0
+beautifulsoup4==4.12.3
+keras==3.4.1
+librosa==0.10.2.post1
+nltk==3.8.1
+numpy==2.0.0
+pandas==2.2.2
+pyarabic==0.6.15
+pydub==0.25.1
+qalsadi==0.5
+Requests==2.32.3
+scikit_learn==1.5.1
+scipy==1.14.0
+seaborn==0.13.2
+skimage==0.0
+sounddevice==0.4.7
